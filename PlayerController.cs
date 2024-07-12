@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    //user access set to public to view/edit "speed" in Unity
     public float speed = 5.0f;
 
     // Start is called before the first frame update
